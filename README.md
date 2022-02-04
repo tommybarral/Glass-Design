@@ -2,5 +2,5 @@
 
 Glass-design in one page.
 
-![Image in App](./cap1.png)
+![cap1.jpg](https://github.com/tommybarral/Glass-Design/blob/master/images/cap1.png)
 
