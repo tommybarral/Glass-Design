@@ -14,8 +14,20 @@ class Homepage extends StatelessWidget {
             fit: BoxFit.cover,
           ),
         ),
-        child: Center(
-          child: GlassBox(),
+        alignment: Alignment(0, 0),
+        child: GlassBox(
+          height: 250.0,
+          width: 200.0,
+          child: Center(
+            child: Text(
+              'Glass Design',
+              style: TextStyle(
+                fontSize: 28,
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
+              ),
+            ),
+          ),
         ),
       ),
     );
